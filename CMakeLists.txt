@@ -12,7 +12,7 @@ endif()
 project ("ChessEngine-Weapon")
 
 # Agregue un origen al ejecutable de este proyecto.
-add_executable (ChessEngine-Weapon "ChessEngine-Weapon.cpp" "ChessEngine-Weapon.h")
+add_executable (ChessEngine-Weapon "ChessEngine-Weapon.cpp" "ChessEngine-Weapon.h" "src/main.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET ChessEngine-Weapon PROPERTY CXX_STANDARD 20)

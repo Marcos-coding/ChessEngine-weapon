@@ -1,0 +1,3 @@
+C:/Proyectos/ChessEngine-Weapon/out/build/x64-debug/CMakeFiles/ChessEngine-Weapon.dir
+C:/Proyectos/ChessEngine-Weapon/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Proyectos/ChessEngine-Weapon/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
